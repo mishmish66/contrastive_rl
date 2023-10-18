@@ -1,3 +1,5 @@
+# FORKED FROM: https://github.com/google-research/google-research/tree/master/contrastive_rl
+
 # [Contrastive Learning as Goal-Conditioned Reinforcement Learning](https://arxiv.org/pdf/2206.07568.pdf)
 <p align="center"><img src="contrastive_rl.png" width=60%></p>
 

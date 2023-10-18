@@ -1,0 +1,4 @@
+also install setuptools==??
+use pip to install wheel==0.38.4
+install cython<3
+switched to mujoco-py==2.0.2.8
